@@ -14,6 +14,7 @@ no_servers = 0
 
 while address != stop_address:
     try:
+        print "\t---------- Number of servers:", no_servers
         for address in msq.find(region=[u"all"],
                                 gamedir=u"csgo",
                                 gametype=[u"idle", u"secure"]

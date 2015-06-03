@@ -1,0 +1,1 @@
+-e git+https://github.com/Holiverh/python-valve.git@master#egg=python-valve

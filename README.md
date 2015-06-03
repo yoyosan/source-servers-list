@@ -7,8 +7,11 @@ It will stop when the 0.0.0.0 server address is reached.
 Install
 =======
 
+Using virtualenvwrapper:
+
 ```
-git submodule update --init --recursive
+mkvirtualenv source-servers-list
+pip install -r requirements.txt
 ```
 
 Run

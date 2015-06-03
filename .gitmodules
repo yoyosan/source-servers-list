@@ -1,3 +1,0 @@
-[submodule "libs/python_valve"]
-	path = libs/python_valve
-	url = git@github.com:Holiverh/python-valve.git
