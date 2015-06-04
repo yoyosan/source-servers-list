@@ -1,8 +1,6 @@
 import sys
 import os
 
-sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'libs/python_valve'))
-
 from valve.source import master_server
 from valve.source import a2s
 from valve.source import messages
